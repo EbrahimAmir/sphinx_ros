@@ -1,5 +1,9 @@
 #!/usr/bin/env python
 
+# Author: Amir Hossein Ebrahimnezhad
+# Description: Python code for simulating Anafi Takeoff on Sphinx 
+
+
 import rospy
 
 import olympe
